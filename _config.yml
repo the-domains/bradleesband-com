@@ -1,0 +1,14 @@
+layout_spectrum: 0.1616185
+typography_spectrum: 0.9767941
+color:
+  lightness: 0.4042553
+  brandStrength: 0.3577816
+  saturation: 0.8382978
+  rhythmicContrast: 0.680851
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: bradleesband.com
